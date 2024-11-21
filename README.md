@@ -1,2 +1,3 @@
-# my_malloc
-An implementation of malloc.
+# memutil
+
+A library for memory usage
